@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![WhatsApp Image 2024-12-05 at 11 44 13_e3934e6c](https://github.com/user-attachments/assets/af32bb6d-718f-4cb1-bcbe-1f88ac705afa)
+
+### Name:Jassir sulthan K
+### Register Number:24901084
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
